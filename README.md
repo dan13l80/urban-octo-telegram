@@ -28,4 +28,4 @@ GIVEN a webpage meets accessibility standards
 ![Mockup Image](Develop/Mockup_Image.png)
 
 ## Live Link
-![Clink Here](https://github.com/dan13l80/urban-octo-telegram.git)
+[Click Here](https://dan13l80.github.io/urban-octo-telegram/)
