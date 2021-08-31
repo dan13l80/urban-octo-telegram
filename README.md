@@ -25,7 +25,7 @@ GIVEN a webpage meets accessibility standards
     THEN I find a concise, descriptive title
 
 ## Mockup
-![Mockup Image](Develop/Mockup_Image.png)
+![Mockup Image](docs/Mockup_Image.png)
 
 ## Live Link
 [Click Here](https://dan13l80.github.io/urban-octo-telegram/)
